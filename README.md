@@ -1,4 +1,4 @@
-##TypeScript Background Template Project ##
+## TypeScript Background Template Project ##
 
 Create .env file for all environemnt variables
 * PORT
